@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Amicus naturæ an advertisement of the virtues of Woodward's cordial pills and elixir salutis : prepared and fitted for the cure of most diseases curable, incident to the bodies of men, women, and children ... whereunto are added directions how to take them / by Daniel Woodward ...</title>
+            <author>Woodward, Daniel, fl. 1682-1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66989</idno>
+            <idno type="STC">Wing W3477</idno>
+            <idno type="STC">ESTC R37263</idno>
+            <idno type="EEBO-CITATION">16288997</idno>
+            <idno type="OCLC">ocm 16288997</idno>
+            <idno type="VID">105262</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66989)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105262)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1602:56)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Amicus naturæ an advertisement of the virtues of Woodward's cordial pills and elixir salutis : prepared and fitted for the cure of most diseases curable, incident to the bodies of men, women, and children ... whereunto are added directions how to take them / by Daniel Woodward ...</title>
+                  <author>Woodward, Daniel, fl. 1682-1700.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Patent medicines --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:105262:1"/>
+            <pb n="1" facs="tcp:105262:1" rendition="simple:additions"/>
+            <head>AMICUS NATURAE.</head>
+            <head type="sub">AN ADVERTISEMENT Of the Virtues of Woodward's Cordial Pills, AND ELIXIR SALUTIS.</head>
+            <argument>
+               <p>Prepared and fitted for the Cure of moſt Diſeaſes curable, incident to the Bodies of Men, Women and Children: whoſe Operati<g ref="char:EOLhyphen"/>ons are ſo wonderful and effectual, that they have not their equal, in Rooting out and Curing Chronical and the moſt difficult Diſtempers; for which theſe Medicines may be term'd Univerſal, being ſuited to all Ages, Humours, Sexes and Conſtitutions, and may be with ſafety exhibited to all Perſons where Purgation is required. Never thus publiſhed before.</p>
+               <p>
+                  <hi>Whereunto are added Directions how to take them.</hi>
+               </p>
+            </argument>
+            <byline>By DANIEL WOODWARD, Student in <hi>Phyſick</hi> and <hi>Aſtrology,</hi> at the Sign of the <hi>Globe</hi> in <hi>Arundel-Street</hi> by St. <hi>Cle<g ref="char:EOLhyphen"/>ment's Church</hi> in the <hi>Strand, London.</hi>
+            </byline>
+            <epigraph>
+               <q xml:lang="lat">
+                  <l>Omnipotentiam ſuam &amp; infinitum Amorem</l>
+                  <l>Humano generi Creatio Dei narrat.</l>
+               </q>
+            </epigraph>
+            <p>NOW ſeeing the <hi>Scurvy</hi> is ſo common a Diſeaſe in theſe Northern Parts, (that his Country-men may the better know when they are afflicted with that Diſtemper) he thought it requiſite in this place to unfold the uſual Symptoms attending that <hi>Protaean</hi> Ma<g ref="char:EOLhyphen"/>lady. 'Tis the <hi>Scurvy</hi> undoubtedly cauſes ſo many to linger out their Days ſo deplorably; few in <hi>England</hi> but have a ſmatch thereof, and in proceſs of
+<pb n="2" facs="tcp:105262:2"/> time it brings many incurable Diſeaſes, at the beſt 'tis hard to be cured, be<g ref="char:EOLhyphen"/>cauſe the Melancholy Humour (through Obſtructions or Weakneſs of the <hi>Spleen)</hi> is ſo far predominant and malignant: Therefore it highly concerns thoſe People, that are afflicted with that terrible Diſtemper, to uſe means in time, eſpecially if they diſcover any of the following Symptoms about them, <hi>viz. Pains in the Head, Noſe, Shoulders, Legs, Bones,</hi> with other <hi>Pains</hi> all over the Body, <hi>Dulneſs</hi> and <hi>Heavineſs, reddiſh</hi> or <hi>blewiſh Spots</hi> in the <hi>Skin, Weakneſs</hi> in the <hi>Back</hi> and <hi>Loins, ill Stomach, loſs of Appetite, Looſeneſs</hi> and <hi>Soreneſs</hi> of the <hi>Teeth, Throat, Mouth</hi> and <hi>Gums, Hoarſneſs, ſtinking Breath, Vomiting, Tooth-ach, Giddineſs</hi> in the <hi>Head, Riſings, Vapours, Cloggings, Stuffings, Gnawings,</hi> or <hi>Illneſs</hi> at <hi>Stomach, faint Sweat, Spittings, Coſtiveneſs, Loſs of Complexion, Pains</hi> in the <hi>Bladder, bad Sleep, frightful Dreams, Itch<g ref="char:EOLhyphen"/>ing</hi> and <hi>Pricking</hi> in the <hi>Blood, Knots</hi> in the <hi>Fleſh,</hi> and the like. Certainly this inſinuating Man-deſtroyer appears with and in the ſhape of moſt Diſeaſes, as hath been evident to thoſe Phyſicians, that have ſcrutiniz'd into its various Forms; and when grown to a height, many ſuppoſe it to be a more ſcan<g ref="char:EOLhyphen"/>dalous Diſeaſe. Whoever languiſhes under any of the preceeding Symp<g ref="char:EOLhyphen"/>toms, may conclude himſelf infected with that Diſeaſe: No Man hath all the Symptoms at once, 'tis ill enough to have ſome. One Box of his <hi>Cor<g ref="char:EOLhyphen"/>dial Pills</hi> at the beginning of this, or moſt infirmities, under God, will be a means to ſave many a Pound; beſides they may prevent the Sick of being tortured with violent Vomits, dangerous Purges, ſalivating with <hi>Mercury,</hi> Bliſters, Iſſues, Cuppings, exceſſive Blooding, and the like: For really the exact preſerving of Health conſiſts not in ſuch practice; but by ſuch a Me<g ref="char:EOLhyphen"/>dicine that is able by its purity to pacify the enraged Parts of Man: <hi>Ergo,</hi> kind Country-men, embrace theſe <hi>Pills</hi> as Jewels, they'l be found of more worth than ten thouſand <hi>Carduus-Poſſets.</hi> Several Gentlemen in <hi>London</hi> buy of theſe <hi>Pills,</hi> purpoſely to give their Neighbours that are in want, and he hopes thoſe in the Country are no leſs charitable. But, as his Room is little, he cannot expatiate; yet let him ſpeak of their Medicinal Properties, and ſo draw to a Concluſion, which are many and excellent, uſeful and precious.</p>
+            <p n="1">1. His <hi>Cordial Pills</hi> are known to be as excellent a Medicine as any ever yet publiſhed, to aſſiſt and fortify decaying Nature: for no deſtructive matter can lurk in the Body of Man, but theſe <hi>Pills</hi> will ſoon drive it out, and in its place render the Body healthful, having been effectual in curing the <hi>Dropſy, Griping in the Guts, extream Pains of the Gout, Green-ſickneſs, bad Digeſtions, Exulceration of the Kidneys, all manner of Surfeits, Peſtilence, Head<g ref="char:EOLhyphen"/>aches, Pimples</hi> or <hi>Fluſhings in the Face, ſore Eyes, Convulſion-fits, Pain, Inflam<g ref="char:EOLhyphen"/>mation</hi>
+               <pb n="3" facs="tcp:105262:2"/> and <hi>Obſtructions</hi> of the <hi>Spleen, Obſtructions</hi> of the <hi>Liver, Fevers, Leproſy, French Pox, Running of the Reins, Trembling, Palpitation</hi> of the <hi>Heart, diffi<g ref="char:EOLhyphen"/>culty of breathing, Stoppage</hi> of the <hi>Stomach, Coughs, Conſumption, Stone</hi> and <hi>Gravel</hi> in the <hi>Kidneys, Stone</hi> in the <hi>Bladder, Agues, Pain</hi> in the <hi>Stomach,</hi> all <hi>Obſtructions</hi> whatſoever, reſiſt all Fullneſs and Infection in the Act of Ge<g ref="char:EOLhyphen"/>neration, mundifie and cleanſe both <hi>Blood</hi> and <hi>Skin,</hi> reſtore and increaſe Beauty, make Old Age comly, and the Complexions of all Perſons chear<g ref="char:EOLhyphen"/>ful and ſanguine. They are alſo excellent for <hi>Pains</hi> and <hi>Weakneſs</hi> in the <hi>Limbs,</hi> cleanſing the Body after the <hi>Meaſles</hi> and <hi>Small Pox,</hi> or other <hi>Fits</hi> of <hi>Sickneſs,</hi> carrying off the Sottiſhneſs of exceſſive Drinkers; and for the <hi>SC<g ref="char:V">Ʋ</g>RVY</hi> they are the beſt of <hi>Pills;</hi> nay, they are an Antidote againſt any Infectious Diſeaſe. Scarce a Malady from Head to Foot, but theſe <hi>Pills</hi> (with God's permiſſion) will be found very aſſiſting: They have caus'd the Deaf to hear, the Blind to ſee, and thoſe that have been like Criples in their Limbs, to walk. Beſides, the <hi>Pills</hi> will not corrupt (if you keep them from Moiſture) tho kept an hundred Years, and that no Drug-Medicine will do: Wherefore they are ſerviceable for thoſe that ſail to the <hi>Eaſt</hi> or <hi>Weſt-Indies;</hi> for ſome that go ſuch long Voyages miſerably periſh for want of ſo univerſal a Helper. Theſe <hi>Pills</hi> are the cheapeſt, conſidering their goodneſs, that ever Man us'd, ſtanding Sentinel in the Body, not admit<g ref="char:EOLhyphen"/>ting Nature's Enemy to enter: For as they are extracted from the beſt of Minerals, they cannot be but an excellent Medicine. Now ſince theſe <hi>Pills</hi> are ſo beneficial for thoſe that go to <hi>Sea,</hi> the like for thoſe that live in the Country remote from able Phyſicians: Therefore he adviſes ſuch not to be wanting of ſome of theſe <hi>Pills</hi> in their Houſes, being in a manner Phy<g ref="char:EOLhyphen"/>ſick upon all Occaſions, and for that reaſon (God willing) he will be well furniſhed therewith. <hi>Price of the biggeſt Box half a Crown, and of the leaſt Box Eighteen Pence; Sealed with his Coat of Arms.</hi>
+            </p>
+            <p>
+               <hi>Directions how to take them.</hi> They are ſo highly prepared you may ſafely adminiſter them to Young or Old, Strong or Weak. But you muſt be ſure to uſe diſcretion in the Doſe, and take as the Body can bear, or Diſeaſe require, then you ſhall not (God willing) fail of your deſire. They may be taken any Seaſon of the Year, but beſt at <hi>Spring</hi> and <hi>Fall,</hi> upon neceſſity any time of the day or night, as in <hi>Surfeits,</hi> two hours before the <hi>Fit</hi> of an <hi>Ague,</hi> and the like. But Men and Women afflicted with Chronical Diſtem<g ref="char:EOLhyphen"/>pers, or Diſeaſes of long ſtanding uſually take them thus; that is, if your Body be coſtive, ſtrong, or ſtubborn, let the firſt <hi>Doſe</hi> be four <hi>Pills,</hi> take them in the Morning faſting, and three or four hours after (unleſs the <hi>Pills</hi> work ſooner) drink a draught or two of warm Poſſet-drink, for that is beſt;
+<pb n="4" facs="tcp:105262:3"/> indeed a draught or two of any other warm Liquor will ſerve, tho but ſmall Beer; and at Noon, or when the <hi>Pills</hi> have done working, eat what you moſt deſire, ſo it be not too hard of Digeſtion. But if your Body be weak or laxative, take not above two or three <hi>Pills</hi> at the firſt, you may increaſe or diminiſh the number as occaſion requires, and in that you'l be a <hi>Phyſician</hi> to your ſelf. Therefore (till you know what number of <hi>Pills</hi> agree beſt with your Body) remember to begin with the leaſt <hi>Doſe</hi> (which, if your Body be ſtrong and coſtive, is 4 <hi>Pills,</hi> if weak or laxative, but two or three) you had better take ten times too little, than once too much; if the firſt <hi>Doſe</hi> does not work to your Mind, increaſe it afterwards by taking 5, 6, or 7 <hi>Pills</hi> the next time; but in the taking do not covet too many Stools or Vo<g ref="char:EOLhyphen"/>mits, for that offers Violence to Nature, and does the Body much Injury, by ſweeping away both good and bad together. Five or ſix motions in a day are ſufficient, and every ſecond, third, or fourth day is often enough to take them; 'tis beſt to uſe ſome Intermiſſion; old Diſeaſes cannot be remov'd on a ſudden. Yet he has known theſe <hi>Pills</hi> have remov'd very rebellious Diſeaſes in a ſhort time: Three <hi>Doſes</hi> ſometimes will do as much good as ten of others. The <hi>Pills</hi> are very ſweet and pleaſant to take, and may be ſwallow<g ref="char:EOLhyphen"/>ed whole, or held, or chew'd in your Mouth with Sugar till they diſſolve, after which, waſh your Mouth with 2 or 3 Spoonfuls of Drink, or bruiſe the <hi>Pill</hi> and infuſe it into 2 or 3 Spoonfuls of Sack or White-wine till its diſſolv'd, and then drink it; or mix the bruiſed <hi>Pills</hi> with ſome Codling, Honey, or roaſted Apple, and take it that way. But the <hi>Pills</hi> will work moſt when they are diſſolv'd, and ſtrengthen moſt when they are not diſſolv'd.</p>
+            <p>For Children the uſual <hi>Doſe</hi> is one <hi>Pill,</hi> one and a half, or two <hi>Pills</hi> at moſt; for weak or young Children, half, or a quarter of one, or leſs, will be ſufficient. Diſſolve what you give to your weak or young Children in a little Sack or Breaſt-milk. Follow theſe Directions and you need not fear Miſcarriages; for thouſands have found benefit, but no Perſon harm; with<g ref="char:EOLhyphen"/>al keep your ſelf warm till you know the nature of their Operation, and you'l find them the beſt and ſafeſt <hi>Pills</hi> ever thus publiſhed to the World.</p>
+            <p>But in truth the <hi>Pills</hi> are ſo various in their Operation, he cannot exactly promiſe their manner of working, for they operate as Nature pleaſes, ſome<g ref="char:EOLhyphen"/>times by Vomit, ſometimes by Stool, and ſometimes both ways at once, but conſtantly without Violence; nay he aſſures you they have conquered many Diſeaſes, and have never wrought to outward appearance, even as tho they were Natures <hi>Medium</hi> to equalize her Extreams, acting more like Rational than Natural Agents: Therefore whenſoever you take of theſe <hi>Pills,</hi> and they operate neither by Stool nor Vomit, they certainly work by expelling <hi>Wind, Water,</hi> or by <hi>Sweat;</hi> and if there be cauſe in
+<pb n="5" facs="tcp:105262:3"/> due time by Stool or Vomit, for under God, in thoſe Bodies where their Operation is not ſo viſible, yet it will not be over in two or three days after, for which he adviſes the Continuation of the <hi>Pills,</hi> with God's leave they'l ſoon overcome your Malady, being good for any Diſeaſe curable by Phyſick, and ſo ſafe, that Women with Child often take them, for they ſtrengthen both Mother and Infant.</p>
+            <p n="2">II. His <hi>Elixir Salutis</hi> has been experienced many Years an excellent, in<g ref="char:EOLhyphen"/>offenſive, ſucceſsful <hi>Cordial Drink,</hi> and ſo analogous to the Human Frame, that it effects all its Operations even as Nature is diſpos'd for Action. And to oblige thoſe Perſons that cannot conveniently take <hi>Pills,</hi> he publiſhes this his ineſtimable <hi>Elixir.</hi> Poſſibly ſome Perſons may approve of this far beyond the <hi>Pills,</hi> and on other Perſons Bodies the <hi>Elixir</hi> may work as great Effects, and that in moſt Diſtempers without the leaſt hinderance of Buſineſs, either at home or abroad, if the Perſon that takes thereof is able to walk or follow any Imploy; for the more you exerciſe and ſtir your Body, the better this <hi>Elixir Salutis,</hi> or Quinteſſence of Life, performs its Office, gently evacuating whatſoever offends the noble Parts. This great Preſerver hath been adminiſtred to Men, Women, and Children, and pro<g ref="char:EOLhyphen"/>ved it ſelf wonderfully ſucceſsful in the Cure of the following Diſtempers; Namely, the <hi>Cholick, Griping in the Guts, Shortneſs of Breath, Green-ſickneſs, Ptiſick, Coughs, Surfeits, Conſumptions, Agues, Exulceration of the Kidneys, Gout, Stone in the Bladder, Scurvy, Jaundies, Stone and Gravel in the Kidneys, Dropſy, bad Digeſtions, Wheeſings, Fits of the Mother, and Vapours from the Spleen, Worms, Rickets, King's-Evil,</hi> &amp;c. Likewiſe this <hi>Cordial-Drink</hi> revives <hi>Drooping, Melancholy Spirits,</hi> removes <hi>Pains</hi> from the <hi>Heart</hi> and <hi>Stomack, Wind</hi> and <hi>Crudities,</hi> cauſes a good <hi>Appetite,</hi> opens <hi>Obſtructi<g ref="char:EOLhyphen"/>ons</hi> of both <hi>Liver</hi> and <hi>Spl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en,</hi> clears the Paſſage between the <hi>Head</hi> and <hi>Heart,</hi> not admitting any noxious Humours to offend thoſe noble Parts, helps <hi>hot Rheums</hi> in the <hi>Eyes,</hi> burning <hi>Heat</hi> of the <hi>Feet</hi> and <hi>Palms</hi> of the Hands. 'Tis alſo excellent to cleanſe the Body after the <hi>Meaſles</hi> or <hi>Small Pox,</hi> or other <hi>Sickneſs,</hi> and after the drinking of the Waters, for this <hi>Elixir</hi> leaves the Body in a perfect healthful ſettled Condition. Beſides, 'tis exceeding beneficial for <hi>wet Nurſes,</hi> becauſe it cleanſes their <hi>Blood,</hi> and makes their <hi>Milk</hi> wholſome and nouriſhing; and a moſt ſalutiferous Medicament for Women in general, powerfully opening the Obſtructions of the <hi>Womb,</hi> and helping them to the benefit of Nature (whether the Obſtructions pro<g ref="char:EOLhyphen"/>ceed from catching of Cold or otherwiſe) rendring <hi>Virgins</hi> their <hi>Maiden Bluſh, ſweet Breath,</hi> ſtrong, luſty Body, together with a delicate Complexi<g ref="char:EOLhyphen"/>on. It alſo exalts the Procreative Virtue, reſtores Radical Moiſture, the
+<pb n="6" facs="tcp:105262:4"/> Magazine of Life; cleanſes and ſtrengthens the <hi>Spermatick Veſſels</hi> in both Sexes, preparing the Body for Conception. In ſhort, as his <hi>Cordial-Pills,</hi> ſo his <hi>Elixir</hi> may be given to all Perſons as a univerſal Remedy againſt ma<g ref="char:EOLhyphen"/>ny Diſeaſes and Diſtempers incident to Mankind. 'Tis often taken by Women with Child (two Months after Conception) to carry off Diſtem<g ref="char:EOLhyphen"/>pers of the Mother, which cauſes the Child to thrive the better. 'Twill retain its full Virtues ſeveral Years, ſealed up in half Pint Bottles; the Price of each Bottle is <hi>half a Crown.</hi>
+            </p>
+            <p>
+               <hi>General Directions how to take it.</hi> No Man living excruciated with either <hi>Stone, Dropſy, Gout, Cholick, Ptyſick,</hi> or any Diſeaſe or Diſtemper of long ſtanding (which by the tract of time is ſeated, and as it were riveted in the Body) can rationally expect immediate Cure, or the recovery of Health on a ſudden (whether by this <hi>Elixir,</hi> or the <hi>Pills,</hi> or indeed, by any means preſcribed by the moſt learned Phyſicians under Heaven.) Poſſibly one Bottle may chance to anſwer your Expectation, if not, pray take three or four before you deſiſt, by which time without doubt (under God) if you have not a real Cure, you'l find much Benefit, provided you avoid Melancholy, and keep a good moderate Diet: for as Diſeaſes gradually come on, ſo gradually Nature muſt be reſtored to her Power and Priſtine Regularity again. <hi>Rome</hi> was not built in a day. Therefore when you in<g ref="char:EOLhyphen"/>tend to uſe this <hi>Cordial-Drink,</hi> have a due regard to your Age, Strength, and Condition of Body, and earneſtly deſire the Almighty's Bleſſing on your Endeavour. If your Body be coſtive, ſtrong, and luſty, let the firſt <hi>Doſe</hi> at Night going to Bed, be three Spoonfuls, and let the like <hi>Doſe</hi> be taken in the Morning faſting: But if your Body be laxative, begin with one Spoonful at Night, and another in the Morning faſting, as before; after which, if there be occaſion, increaſe the Doſe till it comes to three Spoonfuls, which uſually is the higheſt Doſe, unleſs your Body be very ſtrong. Withal, this <hi>Elixir</hi> is ſo innocent in its Operation, that it may be ſafely taken at any time and ſeaſon of the Year, and if your Strength permits, he de<g ref="char:EOLhyphen"/>ſires you to exerciſe your Body; the more you ſtir, the better this Phyſick operates on the Diſtemper. In ſome Perſons Bodies 'twill operate ſoon, but in other Perſons Bodies it may be 6, 8, or 12 hours before it begins to work, and when it does work, in moſt Diſtempers it hinders no buſineſs (keep<g ref="char:EOLhyphen"/>ing your ſelf warm) either at home or abroad, only an hour after the Morning's <hi>Doſe,</hi> take a meſs of Broth, or ſomething warm, and if it gives you 2 or 3 Stools in a day, 'tis enough; too many Stools injures the Body, becauſe it offers Violence to Nature. If you love your Health, take a Bottle or two every <hi>Spring</hi> and <hi>Fall;</hi> for this <hi>Elixir</hi> does not only cure
+<pb n="7" facs="tcp:105262:4"/> Diſeaſes, but alſo fortifies the Body againſt them, and helps the <hi>Blood</hi> in its Circulation.</p>
+            <p>
+               <hi>Directions how to give it to Children.</hi> To a Child of a Month old, give about a quarter of a Spoonful mixed with double its quantity of ſmall Ale; of half a year old, near half a Spoonful with twice as much ſmall Ale; of a year old, one Spoonful mixed with a Spoonful of ſmall Ale; of four years old, one Spoonful and better alone; of 7 years old, one Spoonful and half, or two Spoonfuls; of 12 years, two Spoonfuls, or two Spoonfuls and half, and be ſure not to repeat the Doſe oftener than once a day, except it be in the <hi>Gripes,</hi> for which you may give it twice or thrice in a day, if there be occaſion, but let Diſcretion be your Guide.</p>
+            <p>Some ſtrong bodied Perſons have taken his <hi>Cordial-Pills</hi> with his <hi>Elixir, viz.</hi> The <hi>Pills</hi> one day, and reſted the day following, then the <hi>Elixir</hi> two days, omitting the third; then the <hi>Pills</hi> again, reſted the next day; then the <hi>Elixir</hi> two days, omitting the third, and ſo on as occaſion required, by which means they were the ſurer cured of their Maladies.</p>
+            <p n="3">III. His <hi>
+                  <g ref="char:V">Ʋ</g>nguent</hi> for the <hi>Worms,</hi> which deſtroys all ſorts of them in the Bodies of Men, Women and Children. 'Tis the Opinion of <hi>Phyſicians,</hi> that thoſe Vermine ſhorten more Peoples Lives, than the Sword or Plague; for they cauſe many Diſeaſes, as the <hi>Vertigo, Megrim, Falling-ſickneſs, Con<g ref="char:EOLhyphen"/>ſumption, Rickets, Convulſion-fits, Stranguries,</hi> &amp;c. Many are afflicted with the <hi>Worms,</hi> and yet not know it; ſome are tormented with them from the Cradle to the Grave. However, thoſe that are afflicted may know it by ſome of the following Symptoms, <hi>viz.</hi> a <hi>ſtinking</hi> or <hi>ſowriſh Breath,</hi> the <hi>Mouth fuller</hi> of <hi>Spittle<g ref="char:punc">▪</g>
+               </hi> and <hi>Water</hi> than uſual, <hi>vomiting,</hi> or a <hi>motion thereunto, Drineſs</hi> of the <hi>Lips</hi> and <hi>Tongue,</hi> very <hi>thirſty, loathing of Meat, ſtarting</hi> and <hi>trembling</hi> in <hi>ſleep, itching</hi> of the <hi>Noſe, Pains, Stoppage,</hi> or <hi>gnawing</hi> in the <hi>Stomach</hi> and <hi>Bowels, Gripings</hi> in the <hi>Guts, ſhortneſs</hi> of <hi>Breath, dry Cough, Looſeneſs,</hi> the <hi>Belly</hi> ſwell'd like one in a <hi>Dropſie, Heat, itching</hi> and <hi>ſmarting</hi> in the <hi>Fundament,</hi> thick white <hi>
+                  <g ref="char:V">Ʋ</g>rine,</hi> &amp;c. Beſides deſtroying of the <hi>Worms,</hi> the <hi>Ointment</hi> opens <hi>Obſtructions</hi> of the <hi>Stomach,</hi> cauſes a good <hi>Appetite,</hi> and ſtrengthens the <hi>Brain,</hi> and hath been inſtrumental <hi>(ſub Deo)</hi> to preſerve thouſands: Wherefore he concludes that it is the only thing in the World for People that have Children, to have of it always in readineſs to defend them from thoſe devouring Creatures. You may have of it from one Shilling's worth to what quantity you pleaſe.</p>
+            <pb n="8" facs="tcp:105262:5"/>
+            <p> 
+               <hi>Directions how to uſe it.</hi> Put the Ointment you have into a <hi>Pewter Saucer,</hi> and let it be gently melted; which done, kneel before the Fire, and from the pit of your Stomach to your Navel bathe in with your warm Hand as much of the melted <hi>Ointment</hi> as your Stomach will take; then take a double Linnen Cloth warm, and ſpread it on your Stomach to keep the <hi>Oint<g ref="char:EOLhyphen"/>ment</hi> from your Shift, which Cloth you may wear a Fortnight or three weeks before you leave it off. This method of anointing you muſt follow three or four Mornings and Evenings together before and after the <hi>Full</hi> and <hi>Change</hi> of the <hi>Moon,</hi> afterwards you ought to cleanſe your Body of thoſe Vermine which the <hi>Ointment</hi> hath deſtroyed and brought to a Jelly, (either with ſome of the <hi>Cordial Pills,</hi> or <hi>Elixir Salutis,</hi> or with what other Ca<g ref="char:EOLhyphen"/>thartick Medicament you pleaſe) for by Purgation (after anointing) your Body will be freed of thoſe devouring Vermine. In like manner ap<g ref="char:EOLhyphen"/>ply the <hi>Ointment</hi> to Children, and to thoſe that are not able to kneel before the Fire; but when you apply it to thoſe that are weak, you may do it with a Chafing-diſh of Coals in their Beds.</p>
+            <p>He could have inſerted many difficult Cures performed by his <hi>Cordial-Pills</hi> and <hi>Elixir Salutis,</hi> with the Names and Dwelling-places of thoſe Per<g ref="char:EOLhyphen"/>ſons the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ures were wrought upon, and alſo of the wonderful Effects of his <hi>Worm-Ointment,</hi> but that he holds it needleſs, becauſe their Operations have forced their kind acceptance to the World, and will do the ſame for the future.</p>
+            <closer>Δόξα Θεῶ.</closer>
+            <argument>
+               <p>See his Almanack yearly publiſhed.</p>
+            </argument>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:105262:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
